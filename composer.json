@@ -7,7 +7,7 @@
             "name": "Co May Automation",
             "homepage": "http://comaylink.com",
             "role": "Company"
-        },
+        }
     ],
     "license": "MIT",
     "type": "project",
