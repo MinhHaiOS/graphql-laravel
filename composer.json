@@ -1,34 +1,13 @@
 {
-    "name": "rebing/graphql-laravel",
+    "name": "MinhHaiOS/graphql-laravel",
     "description": "Laravel wrapper for PHP GraphQL",
     "keywords": ["framework", "laravel", "graphql", "react"],
     "authors": [
         {
-            "name": "Rebing OÜ",
-            "homepage": "http://www.rebing.ee",
+            "name": "Co May Automation",
+            "homepage": "http://comaylink.com",
             "role": "Company"
         },
-        {
-            "name": "Mikk Mihkel Nurges",
-            "email": "mikk.nurges@rebing.ee",
-            "role": "Developer"
-        },
-        {
-            "name": "Folklore",
-            "email": "info@atelierfolklore.ca",
-            "homepage": "http://atelierfolklore.ca"
-        },
-        {
-            "name": "David Mongeau-Petitpas",
-            "email": "dmp@atelierfolklore.ca",
-            "homepage": "http://mongo.ca",
-            "role": "Developer"
-        },
-        {
-            "name": "Markus Fischer",
-            "email": "markus@fischer.name",
-            "role": "Developer"
-        }
     ],
     "license": "MIT",
     "type": "project",
