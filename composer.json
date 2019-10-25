@@ -1,5 +1,5 @@
 {
-    "name": "MinhHaiOS/graphql-laravel",
+    "name": "tdmhai/graphql-laravel",
     "description": "Laravel wrapper for PHP GraphQL",
     "keywords": ["framework", "laravel", "graphql", "react"],
     "authors": [
