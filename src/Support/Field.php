@@ -41,7 +41,7 @@ abstract class Field
         return [];
     }
 
-    public function type(): GraphqlType;
+    public function type(): GraphqlType {};
 
     /**
      * @return array<string,array>
